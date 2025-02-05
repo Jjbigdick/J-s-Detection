@@ -3,10 +3,7 @@
 **J's Detection is a self-created pixel analyzing algorithm for pixel trends and edges.**
 
 **Current Use Example:**
-
-  **DEMO**
-  
-  Lemin Puzzle 99% success rate. I don't recall technical terms, here is what AI says.
+### Lemin Puzzle 99% success rate. I don't recall technical terms, here is what AI says.
   1. **Random Noise Layers**
     - Gaussian/Additive Noise: Random pixel variations (static-like grain).
     - Salt-and-Pepper Noise: Black/white speckles disrupting edges.
