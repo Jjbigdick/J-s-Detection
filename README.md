@@ -9,6 +9,7 @@ The first question i may ask is, What is edge?
 
 ![image](https://github.com/user-attachments/assets/1867ccab-00ef-40f9-a9c7-87496b4ad7db)
 
+![image](https://github.com/user-attachments/assets/f4fa9fa6-fa33-45f9-ac29-213be9ee4cc2)
 
 
 
