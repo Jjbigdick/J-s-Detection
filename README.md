@@ -5,6 +5,8 @@ The first question i may ask is, What is edge?
 
 ![image](https://github.com/user-attachments/assets/60e76c2f-37e2-4247-a4e8-055337edf29e)
 
+![image](https://github.com/user-attachments/assets/dff2a77e-7fef-49fb-91c5-050d48fa5352)
+
 ## Current Use Example
 ### Lemin Puzzle 99% success rate. I don't recall technical terms, here is what AI says.
   1. **Random Noise Layers**
