@@ -1,6 +1,9 @@
 # J-s-Detection
-
 **J's Detection is a self-created pixel analyzing algorithm for pixel trends and edges.**
+
+What is edge?
+
+![image](https://github.com/user-attachments/assets/60e76c2f-37e2-4247-a4e8-055337edf29e)
 
 ## Current Use Example
 ### Lemin Puzzle 99% success rate. I don't recall technical terms, here is what AI says.
