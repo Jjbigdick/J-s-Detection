@@ -5,7 +5,8 @@ The first question i may ask is, What is edge?
 
 ![image](https://github.com/user-attachments/assets/60e76c2f-37e2-4247-a4e8-055337edf29e)
 
-![image](https://github.com/user-attachments/assets/190bbfff-5ee9-4b7f-acda-43ad1986c81c)
+![image](https://github.com/user-attachments/assets/b60c31f1-340b-4ede-9618-fa63134ef2be)
+
 
 
 
