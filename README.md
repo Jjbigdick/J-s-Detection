@@ -3,10 +3,12 @@
 
 The first question i may ask is, What is edge?
 
-
+J's
 ![image](https://github.com/user-attachments/assets/60e76c2f-37e2-4247-a4e8-055337edf29e)
 ![image](https://github.com/user-attachments/assets/8213152c-a228-455e-820a-e3ac5d9796ef)
 
+GussianBlur + Canny
+![image](https://github.com/user-attachments/assets/704ead93-7667-4176-b8e3-e873d7ef7b90)
 
 
 
