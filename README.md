@@ -3,7 +3,10 @@
 
 The first question i may ask is, What is edge?
 
+
 ![image](https://github.com/user-attachments/assets/60e76c2f-37e2-4247-a4e8-055337edf29e)
+![image](https://github.com/user-attachments/assets/b059b36d-4199-4d60-b0eb-fbaa8545fa3c)
+
 
 ![image](https://github.com/user-attachments/assets/1169d34b-8454-43ca-9a68-68f804b90634)
 
