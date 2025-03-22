@@ -1,7 +1,7 @@
 # J-s-Detection
 **J's Detection is a self-created pixel analyzing algorithm for pixel trends and edges.**
 
-# The first question i may ask is, What is edge?
+# The first fucking question in your fucking dumb head, is, what is the fucking edge.
 
 
 
