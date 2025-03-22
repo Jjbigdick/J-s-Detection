@@ -13,7 +13,7 @@
 
 ## On Lemin CAPTCHA: 95% Success Rate
 <div align="center">
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; width: 100%;">
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; width: 33%;">
     <img width="100%" src="https://github.com/user-attachments/assets/38123bf6-259e-4c92-9269-99c015f6603f" alt="Screenshot 1">
     <img width="100%" src="https://github.com/user-attachments/assets/7f24dafd-995c-4ed9-bb61-aba07c90eae8" alt="Screenshot 2">
     <img width="100%" src="https://github.com/user-attachments/assets/8fad8aaa-7e52-47b2-a526-c24a3f88ad6b" alt="Screenshot 3">
