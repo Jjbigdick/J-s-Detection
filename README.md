@@ -11,7 +11,7 @@
 
 ![image](https://github.com/user-attachments/assets/f4fa9fa6-fa33-45f9-ac29-213be9ee4cc2)
 
-## Lemin CAPTCHA
+## On Lemin CAPTCHA: 95% Success Rate
 ![Screenshot 2023-07-28 115126](https://github.com/user-attachments/assets/38123bf6-259e-4c92-9269-99c015f6603f)
 
 ![Screenshot 2023-07-28 113518](https://github.com/user-attachments/assets/7f24dafd-995c-4ed9-bb61-aba07c90eae8)
