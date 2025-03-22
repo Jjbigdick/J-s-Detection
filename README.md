@@ -4,6 +4,9 @@
 # The first fucking question in your fucking dumb head, is, what is the fucking edge.
 
 
+![gray copy](https://github.com/user-attachments/assets/0786222a-3437-4b85-8363-ff487e023a29)
+![Screenshot 2023-04-14 235059](https://github.com/user-attachments/assets/a7297b65-e7f3-472d-91b6-b385f4f0ec4b)
+![Screenshot 2023-04-14 233501](https://github.com/user-attachments/assets/c659fb70-b9eb-4e54-b0c0-e1c3cebb1467)
 
 ![image](https://github.com/user-attachments/assets/1169d34b-8454-43ca-9a68-68f804b90634)
 
