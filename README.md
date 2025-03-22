@@ -1,7 +1,7 @@
 # J-s-Detection
 **J's Detection is a self-created pixel analyzing algorithm for pixel trends and edges.**
 
-The first question i may ask is, What is edge?
+# The first question i may ask is, What is edge?
 
 
 
@@ -11,6 +11,12 @@ The first question i may ask is, What is edge?
 
 ![image](https://github.com/user-attachments/assets/f4fa9fa6-fa33-45f9-ac29-213be9ee4cc2)
 
+## Lemin CAPTCHA
+![Screenshot 2023-07-28 115126](https://github.com/user-attachments/assets/38123bf6-259e-4c92-9269-99c015f6603f)
+
+![Screenshot 2023-07-28 113518](https://github.com/user-attachments/assets/7f24dafd-995c-4ed9-bb61-aba07c90eae8)
+
+![Screenshot 2023-07-28 113839](https://github.com/user-attachments/assets/8fad8aaa-7e52-47b2-a526-c24a3f88ad6b)
 
 ## J's
 ![image](https://github.com/user-attachments/assets/60e76c2f-37e2-4247-a4e8-055337edf29e)
